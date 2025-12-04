@@ -28,8 +28,8 @@ For each image:
 Sharpness Score (Laplacian Variance)
 
   - Measures the level of detail/blur in the image
-  - Higher = sharper
-  - Lower = blurrier
+    - Higher = sharper
+    - Lower = blurrier
 
   - cv2.Laplacian(img, cv2.CV_64F).var()
 
