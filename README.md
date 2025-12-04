@@ -1,6 +1,6 @@
 # Take-Home-Assignment
 
-# The script looks through a set of 10 images and performs:
+The script looks through a set of 10 images and performs:
 
 # 1. YOLOv8 Object Detection
 # Model: yolov8m.pt (Ultralytics)
